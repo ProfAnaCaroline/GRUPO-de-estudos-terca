@@ -1,0 +1,1 @@
+# GRUPO-de-estudos-terca
