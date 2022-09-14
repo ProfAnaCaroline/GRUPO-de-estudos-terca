@@ -45,27 +45,18 @@ h3 {
 .contato {
        text-align: right;
        font-size: 18px;
-       display: block;
+       display: inline-block;
        vertical-align: top;
 }
 
-#instagram {
-    width: 2%;
-    display: block;
+.img {
+    width: 1%;
+    display: inline-block;
 }
 
-#facebook {
-    width: 2%;
-}
+footer {
+    background-color: #9d3737;
+    font-size: 15px;
+    font-style: italic;
 
-#whatsapp {
-    width: 2.5%;
-}
-
-#localizacao {
-    width: 3%;
-}
-
-#email {
-    width: 4%;
 }
